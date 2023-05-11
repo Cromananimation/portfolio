@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+}
+
+aside {
+    background-color: beige;
+}
+
+.bigPicture {
+    height: 150px;
+    width: 150px;
+}
+header{
+    background-color: azure;
+}
+
+.container{
+    background-color: blue; 
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.aboutMe{
+    display: flex;}
