@@ -1,0 +1,30 @@
+:root {
+    /* COLORS */
+        /* BACKGROUND COLORS */
+        --menu-bkgcolor: black;
+        /* TEXT COLORS */
+        --main-text-color: rgb(255, 0, 47);
+        --banner-text-color: rgb(253, 13, 13);
+        /* SHADOW COLORS */
+        --shadowcolor: rgb(199, 199, 199);
+        --p-shadowcolor: rgba(61, 71, 163, 0.52);
+    /* TEXT EFFECTS */
+        --base-textshadow: -1px 1px 1px var(--shadowcolor),
+        1px 1px 1px var(--shadowcolor),
+        -1px -1px 1px var(--shadowcolor),
+        1px -1px 1px var(--shadowcolor);
+        --p-textshadow: -1px 1px 1px var(--p-shadowcolor),
+        1px 1px 1px var(--p-shadowcolor),
+        -1px -1px 1px var(--p-shadowcolor),
+        1px -1px 1px var(--p-shadowcolor);
+    /* SIZES  */
+        --h1-textsize: 4vw;
+    /* SPACING */
+        --h1-margintop: 25vh;
+        --container-margin: 5px;
+        --nav-margin-right: 0;
+    /* BORDERS */
+
+    /* TRANSFORM */
+
+}
