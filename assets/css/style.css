@@ -71,7 +71,7 @@ a small conic gradient border. Set the flex-basis to calculate the small margin 
 add a bit of padding so it comes down a little. Decrease default opacity for desktop so it highlights when you hover. */
 .card {
     background-image: url("../images/Coming-soon.png");
-    background-size: cover;
+    background-size: contain;
     box-shadow: 0px 0px 5vw 1vw rgba(0, 0, 0, 1) inset, 0 0 5vw 1vw rgba(0, 0, 0, 0.5) inset;
     height: var(--card-height);
     color: var(--easy-cyan);
